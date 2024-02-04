@@ -16,7 +16,7 @@ This repository contains the code and documentation for the project developed by
 
 Our project focuses on addressing the Classiq challenge and leverages quantum computing techniques to find the most accurate approximation of tanh(x) in the domain of 
 ```latex
-f(x) =|0, 1> -> |0, 1>.
+f(x) =|0, 1> -> |0, 1>
 ```
 
 Please read Classiq’s Generalized Arithmetic Challenge.pdf to better understand the challenge.
@@ -25,21 +25,22 @@ Please read Classiq’s Generalized Arithmetic Challenge.pdf to better understan
 
 ### Team Members:
 
-<a href="https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/">Aakash</a>
+<a href="https://www.linkedin.com/in/aakash-warke-5128a916b/">Aakash Warke</a>
 
-<a href="https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/">Abraham</a>
+<a href="">Chu-Hsuan (Abraham) Lin</a>
 
-<a href="https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/">Erica</a>
+<a href="https://www.linkedin.com/in/erica-sturm-398569113/">Erica Sturm</a>
 
-<a href="https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/">Freesia</a>
+<a href="https://www.linkedin.com/in/freesia-gaul-896287237/">Freesia Gaul</a>
 
-<a href="https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/">Yara Rodrigues Inácio</a>
+<a href="https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/">Yara Rodrigues</a>
 
 
 
 ## Installation
 
 To install you will need a classiq account.
+
 You will run:
 
 ```bash
