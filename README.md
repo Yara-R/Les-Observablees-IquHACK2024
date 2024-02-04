@@ -1,9 +1,9 @@
 <p align="center">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Yara-R/Insert-cool-name-here-IquHACK2024">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Yara-R/Les-Observablees-IquHACK2024">
 
-  <a href="https://github.com/Yara-R/Insert-cool-name-here-IquHACK2024/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dan-albuquerque/conectaP/main">
+  <a href="https://github.com/Yara-R/Les-Observablees-IquHACK2024/commits/main/">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Yara-R/Les-Observablees-IquHACK2024">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
