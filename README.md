@@ -16,7 +16,7 @@ This repository contains the code and documentation for the project developed by
 
 Our project focuses on addressing the Classiq challenge and leverages quantum computing techniques to find the most accurate approximation of tanh(x) in the domain of 
 ```latex
-f(x) : (0, 1] &rarr (0, 1]
+f(x) : (0, 1] \rightarrow (0, 1]
 ```
 We have successfully employed a piecewise linear approximation to approximate tanh(x) within the domain (0,1]. In Stage 1, we achieved a precision of 7 with a max_distance of approximately 0.037, utilizing only 29 qubits. Moving on to Stage 2, we enhanced the precision to 31 while employing 98 qubits. To gain a deeper understanding of the challenge, please refer to the document titled "Classiq’s Generalized Arithmetic Challenge.pdf."
 
