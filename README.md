@@ -35,7 +35,7 @@ Using 2-segment linear approximation and only one control bit, the approximation
 
 <a href="https://www.linkedin.com/in/aakash-warke-5128a916b/">Aakash Warke</a>
 
-<a href="">Chu-Hsuan (Abraham) Lin</a>
+<a href="https://www.linkedin.com/in/chu-hsuan-abraham-lin-69474019a/">Chu-Hsuan (Abraham) Lin</a>
 
 <a href="https://www.linkedin.com/in/erica-sturm-398569113/">Erica Sturm</a>
 
