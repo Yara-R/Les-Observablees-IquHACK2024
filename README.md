@@ -30,6 +30,10 @@ Please read Classiq’s Generalized Arithmetic Challenge.pdf to better understan
 Using 2-segment linear approximation and only one control bit, the approximation points plotted against $tanh(x)$
 ![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Pieces_wise_percision_6.png)
 
+## Theoretical approximation
+![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/theoritical%20approximation.png)
+
+<a href= "https://www.desmos.com/calculator/twgnswn4hd" >Here</a> you can see all the curves we tried throughout the hackathon
 
 ### Team Members:
 
