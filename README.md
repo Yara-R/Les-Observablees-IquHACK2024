@@ -18,7 +18,7 @@ Our project focuses on addressing the Classiq challenge and leverages quantum co
 ```LaTeX
 f(x) : (0, 1] -> (0, 1]
 ```
-We have successfully employed a piecewise linear approximation to approximate tanh(x) within the domain (0,1]. In Stage 1, we achieved a precision of 7 with a max_distance of approximately 0.037, utilizing only 29 qubits. Moving on to Stage 2, we enhanced the precision to 31 while employing 98 qubits. To gain a deeper understanding of the challenge, please refer to the document titled "Classiq’s Generalized Arithmetic Challenge.pdf."
+We have successfully employed a piecewise linear approximation to approximate tanh(x) within the domain (0,1]. In Stage 1, we achieved a precision of 7 with a max_distance of approximately 0.037, utilizing only 29 qubits. Moving on to Stage 2, we enhanced the precision to 31 while employing 98 qubits, achieving a circuit depth of just 1431. To gain a deeper understanding of the challenge, please refer to the document titled "Classiq’s Generalized Arithmetic Challenge.pdf."
 
 ### Main Results:
 
