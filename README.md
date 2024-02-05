@@ -21,10 +21,13 @@ f(x) =|0, 1> -> |0, 1>
 
 Please read Classiq’s Generalized Arithmetic Challenge.pdf to better understand the challenge.
 
-### Main Results
+### Main Results:
+
 ## Honourable Mention for the most creative algorithm
+![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Winner%20accouncement.png)
 
 ## Algorithm approximation results (precision = 6)
+Using 2-segment linear approximation and only one control bit, the approximation points plotted against $tanh(x)$
 ![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Pieces_wise_percision_6.png)
 
 
