@@ -24,6 +24,7 @@ Please read Classiq’s Generalized Arithmetic Challenge.pdf to better understan
 ### Main Results:
 
 ## Honourable Mention for the most creative algorithm
+![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Honourable%20Mention.jpg)
 ![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Winner%20accouncement.png)
 
 ## Algorithm approximation results (precision = 6)
