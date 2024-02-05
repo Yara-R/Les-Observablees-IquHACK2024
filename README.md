@@ -22,11 +22,10 @@ f(x) =|0, 1> -> |0, 1>
 Please read Classiq’s Generalized Arithmetic Challenge.pdf to better understand the challenge.
 
 ### Main Results
-Honourable Mention for the most creative algorithm
+## Honourable Mention for the most creative algorithm
 
-Algorithm approximation results (precision = 6)
-![alt text][(https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Pieces_wise_percision_6.png)
-
+## Algorithm approximation results (precision = 6)
+![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Pieces_wise_percision_6.png)
 
 
 ### Team Members:
