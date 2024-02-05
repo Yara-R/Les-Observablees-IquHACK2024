@@ -10,7 +10,7 @@
 
 </p>
 
-# Les Observables - <a href="https://github.com/iQuHACK/2024_Classiq/tree/main">IquHACK2024</a>
+# Les Observables - <a href="https://github.com/iQuHACK/2024_Classiq/tree/main">iQuHACK2024</a>
 
 This repository contains the code and documentation for the project developed by Les Observablées during the MIT Quantum Hackathon (<a href="https://www.iquise.mit.edu/iQuHACK/2024-02-02">IQuHACK</a>). 
 
