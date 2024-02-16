@@ -26,7 +26,7 @@ We successfully employed a piecewise linear approximation to approximate tanh(x)
 ![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Honourable%20Mention.jpg)
 ![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Winner%20accouncement.png)
 
-## Algorithm approximation results (precision = 6)
+## Algorithm approximation results (precision = 7)
 Using 2-segment linear approximation and only one control bit, the approximation points plotted against $tanh(x)$
 ![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Pieces_wise_percision_6.png)
 
