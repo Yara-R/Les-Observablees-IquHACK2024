@@ -28,10 +28,10 @@ We successfully employed a piecewise linear approximation to approximate tanh(x)
 
 ## Algorithm approximation results (precision = 7)
 Using 2-segment linear approximation and only one control bit, the approximation points plotted against $tanh(x)$
-![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Pieces_wise_percision_6.png)
+![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/Piece_wise_percision_6.png)
 
 ## Theoretical approximation
-![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/theoritical%20approximation.png)
+![alt text](https://github.com/Yara-R/Les-Observables-IquHACK2024/blob/main/theoretical%20approximation.png)
 
 <a href= "https://www.desmos.com/calculator/twgnswn4hd" >Here</a> you can see all the curves we tried throughout the hackathon
 
